@@ -1,5 +1,5 @@
 # Hi, I’m Rosita
-I'm a UVIC cs undergrad currently interested in game dev.
+I'm a csc undergrad currently at University of Victoria. I work with both frontend and backend, and love to expend my repertoire of skills.
 
 ## Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
