@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rosita Liu</h1>
-<h3 align="center">Third year student studying at UVIC</h3>
+<h3 align="center">UVIC Compsci Student</h3>
+<h4 align="center">April 2026 Graduation</h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
